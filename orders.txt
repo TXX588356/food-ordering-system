@@ -1,0 +1,2 @@
+B002	Orange juice	3	7
+F002	Prawn Mee	1	13.8

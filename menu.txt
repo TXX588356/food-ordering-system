@@ -1,0 +1,6 @@
+F001	Nasi lemak	9.5
+F002	Prawn Mee	13.8
+B001	Apple juice	7
+B002	Orange juice	7
+D001	Cheesecake	13.5
+
